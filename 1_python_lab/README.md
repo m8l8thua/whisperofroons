@@ -10,6 +10,10 @@
     1. Навчились ...
 
 >![alt text](https://github.com/m8l8thua/whisperofroons/raw/main/pictures/1python.jpg "Завдання 1")
+
+
+
+---
 >![alt text]( https://github.com/m8l8thua/whisperofroons/raw/main/pictures/2python.jpg "Завдання 2")
 
 - вставлений код / текстовий або числовий результат / інші результати:
