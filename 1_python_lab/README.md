@@ -8,11 +8,9 @@
     1. Програма вивела значення ... 
     1. Отримано наступні результати ...
     1. Навчились ...
-- вставлені рисунки (скріншоти екрана або фотографії виконаного завдання у зошиті);
-> якщо графічних файлів багато то краще помістити їх у окрему папку, наприклад у мене це папка `pictures`. Уважно дивіться коли вставляєте URL - файл має бути представленим як `raw`. 
 
-![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
-![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
+>![alt text](https://github.com/m8l8thua/whisperofroons/raw/main/pictures/1python.jpg "Завдання 1")
+>![alt text]( https://github.com/m8l8thua/whisperofroons/raw/main/pictures/2python.jpg "Завдання 2")
 
 - вставлений код / текстовий або числовий результат / інші результати:
  
