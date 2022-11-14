@@ -29,7 +29,7 @@ class MyName:
 
     @classmethod
     def anonymous_user(cls):
-        """Classs method
+        """Class method
         """
         return cls("Anonymous")
     
@@ -39,10 +39,12 @@ class MyName:
         """
         return f"You say: {message}"
 
+    def name_length(self):
+        return f"Length or your name is {len(self.name)}"
 
 print("Let's Start!")
 
-names = ("Bohdan", "Marta", None,)
+names = ("Bohdan", "Marta", None, "Oleg")
 all_names = {name: MyName(name) for name in names}
 
 for name, me in all_names.items():
@@ -50,6 +52,7 @@ for name, me in all_names.items():
 This is object: {me} 
 This is object attribute: {me.name} / {me.my_id}
 This is {type(MyName.whoami)}: {me.whoami} / {me.my_email}
+This is {type(me.name_length)} call: {me.name_length()}
 This is {type(me.create_email)} call: {me.create_email()}
 This is static {type(MyName.say_hello)} with defaults: {me.say_hello()} 
 This is class variable {type(MyName.total_names)}: from class {MyName.total_names} / from object {me.total_names}
